@@ -2,5 +2,8 @@
 	"users": [
 		{"id": 1, "email":"jfeliu@gmail.com"},
 		{"id": 2, "email":"ahernandezl0889@gmail.com"}
+	],
+	"test":[
+		{"id":1,"text":"test"}
 	]
 }
